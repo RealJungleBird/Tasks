@@ -17,3 +17,11 @@
 - [Практическая работа №10](https://github.com/RealJungleBird/Tasks/blob/main/Информатика/Блок%202/Практическая%20работа%20№10.pdf) :white_check_mark:
 - [Практическая работа №11](https://github.com/RealJungleBird/Tasks/blob/main/Информатика/Блок%202/Практическая%20работа%20№11.pdf) :white_check_mark:
 - [Практическая работа №12](https://github.com/RealJungleBird/Tasks/blob/main/Информатика/Блок%202/Практическая%20работа%20№12.pdf) :white_check_mark:
+
+### Блок 3 (6/6)
+- [Практическая работа №13](https://github.com/RealJungleBird/Tasks/blob/main/Информатика/Блок%203/Практическая%20работа%20№13.pdf) :white_check_mark:
+- [Практическая работа №14](https://github.com/RealJungleBird/Tasks/blob/main/Информатика/Блок%203/Практическая%20работа%20№14.pdf) :white_check_mark:
+- [Практическая работа №15](https://github.com/RealJungleBird/Tasks/blob/main/Информатика/Блок%203/Практическая%20работа%20№15.pdf) :white_check_mark:
+- [Практическая работа №16](https://github.com/RealJungleBird/Tasks/blob/main/Информатика/Блок%203/Практическая%20работа%20№16.pdf) :white_check_mark:
+- [Практическая работа №17](https://github.com/RealJungleBird/Tasks/blob/main/Информатика/Блок%203/Практическая%20работа%20№17.pdf) :white_check_mark:
+- [Практическая работа №18](https://github.com/RealJungleBird/Tasks/blob/main/Информатика/Блок%203/Практическая%20работа%20№18.pdf) :white_check_mark:
