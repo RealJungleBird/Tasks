@@ -36,10 +36,10 @@
 
 ### Блок 5 (3/8)
 - [Практическая работа №25](https://github.com/RealJungleBird/Tasks/blob/main/Информатика/Блок%205/Практическая%20работа%20№25.pdf) :white_check_mark:
-- Практическая работа №26
+- [Практическая работа №26](https://github.com/RealJungleBird/Tasks/blob/main/Информатика/Блок%205/Практическая%20работа%20№26.pdf) :white_check_mark:
 - [Практическая работа №27](https://github.com/RealJungleBird/Tasks/blob/main/Информатика/Блок%205/Практическая%20работа%20№27.pdf) :white_check_mark:
 - [Практическая работа №28](https://github.com/RealJungleBird/Tasks/blob/main/Информатика/Блок%205/Практическая%20работа%20№28.pdf) :white_check_mark:
 - Практическая работа №29
 - Практическая работа №30
-- Практическая работа №31
-- Практическая работа №32
+- [Практическая работа №31](https://github.com/RealJungleBird/Tasks/blob/main/Информатика/Блок%205/Практическая%20работа%20№31.pdf) :white_check_mark:
+- [Практическая работа №32](https://github.com/RealJungleBird/Tasks/blob/main/Информатика/Блок%205/Практическая%20работа%20№32.pdf) :white_check_mark:
